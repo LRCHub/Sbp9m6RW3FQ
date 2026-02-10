@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ALONES",
+  "base_artist": "Aqua Timez",
+  "createdAt": "2026-02-10T10:53:02.428748Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Alones",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/01_Alones_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Alones",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/02_Alones_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Alones (Instrumental Mix)",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/03_Alones_(Instrumental_Mix)_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "01. Alones",
+      "artist": "Aqua Timez",
+      "has_synced": true,
+      "path": "select/04_01._Alones_Aqua_Timez.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ALONES",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/05_ALONES_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ALONES（第121〜143話 OP）",
+      "artist": "Yuuki Okamoto",
+      "has_synced": true,
+      "path": "select/06_ALONES(第121〜143話_OP)_Yuuki_Okamoto.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Alones (Bleach Opening 6)",
+      "artist": "Pellek",
+      "has_synced": false,
+      "path": "select/07_Alones_(Bleach_Opening_6)_Pellek.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ALONES",
+      "artist": "Aqua Timez",
+      "has_synced": false,
+      "path": "select/pl_01_ALONES_Aqua_Timez.txt"
+    }
+  ]
+}
